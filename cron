@@ -1,0 +1,1 @@
+0 * * * * /home/dayat/LAB/PYTHON/playground/.env/bin/python /home/dayat/LAB/PYTHON/playground/clean_up.py >> /home/dayat/LAB/PYTHON/playground/logs.log 2>&1

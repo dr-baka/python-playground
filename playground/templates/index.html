@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Code Editor with Line Numbers and Syntax Highlighting</title>
+    <!-- CodeMirror Styles -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/theme/material-darker.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            height: 100vh;
+            margin: 0;
+            background-color: #282c34;
+        }
+
+        .container {
+            display: flex;
+            width: 100%;
+            padding: 20px;
+            height: 100%;
+            box-sizing: border-box;
+        }
+
+        .editor-column, .result-column {
+            flex: 1;
+            padding: 20px;
+            margin: 0 10px;
+            background-color: #2e3440;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .editor-column {
+            max-width: 50%;
+            max-height: 98vh; /* Set max height of the editor column to 90% of viewport height */
+        }
+
+        .result-column {
+            color: white;
+            overflow: auto;
+            max-height: 98vh;
+            word-wrap: break-word;
+        }
+
+        .CodeMirror {
+            flex: 1;
+            height: 100% !important; /* Make CodeMirror fill the container */
+            border-radius: 8px;
+        }
+
+        #run-code {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #61dafb;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #run-code:hover {
+            background-color: #21a1f1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="editor-column">
+            <form method='post' style="display: flex; flex-direction: column; height: 100%;">
+                <textarea name="code" id="codeEditor" style="flex: 1;">{{code}}</textarea>
+                <button id="run-code" type="submit">Run Code</button>
+            </form>
+        </div>
+        <div class="result-column" id="result">
+            <span class="fs-5 mb-3">Import Packages</span>
+            <form id="pip">
+                <input name="venv_name" id="venv_name" value="{{session_name}}" type="hidden" class="form-control" >
+                <div class="input-group mb-3">
+                    <input name="pip_name" id="pip_name" type="text" class="form-control" placeholder="input pip package name" aria-label="pip package name" aria-describedby="button-addon2">
+                    <span class="btn btn-outline-success" id="button-addon2">Install</span>
+                  </div>
+            </form>
+            <hr>
+            <span class="fs-5 mb-3">Result for session : {{session_name}}</span>
+            <pre class="text-wrap">{{results}}</pre>
+        </div>
+    </div>
+
+    <!-- CodeMirror Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/mode/python/python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/addon/scroll/simplescrollbars.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/addon/selection/active-line.min.js"></script>
+
+    <script>
+        // Initialize CodeMirror
+        const editor = CodeMirror.fromTextArea(document.getElementById('codeEditor'), {
+            mode: 'python',
+            theme: 'material-darker',
+            lineNumbers: true,
+            lineWrapping: true,
+            height: "100%",
+            
+            extraKeys: {
+                "Enter": function(cm) {
+                    cm.replaceSelection("\n", "end");
+                }
+            }
+        });
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const form = document.getElementById('pip');
+            const pip = document.getElementById('pip_name');
+            const installButton = document.getElementById('button-addon2');
+        
+            installButton.addEventListener('click', function() {
+                // Prevent default form submission
+                event.preventDefault();
+        
+                // Create a FormData object from the form element
+                const formData = new FormData(form);
+        
+                // Send the form data using fetch
+                fetch('/install-package/', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Handle the response data here
+                    console.log('Success:', data);
+                    window.alert(data.message)
+                    pip.value = ''
+                    
+                    // Optionally, you can display a success message or handle the response
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    // Optionally, handle errors here
+                    window.alert(error)
+                });
+            });
+
+            let inactivityTime = function () {
+                let time;
+                let inactivityLimit = 60000*30; // 30 minute in milliseconds
+            
+                // Reset the timer on any of the following events
+                window.onload = resetTimer;
+                document.onmousemove = resetTimer;
+                document.onkeypress = resetTimer;
+                document.ontouchstart = resetTimer; // For touch devices
+                document.onclick = resetTimer;
+                document.onkeydown = resetTimer;
+            
+                function redirectToPage() {
+                    // Send the form data using fetch
+                    fetch('/{{session_name}}/delete/', {
+                        method: 'DELETE'
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        // Handle the response data here
+                        console.log('Success:', data);
+                        window.alert(data.message)
+                        pip.value = ''
+                        
+                        // Optionally, you can display a success message or handle the response
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        // Optionally, handle errors here
+                        window.alert(error)
+                    });
+                    window.location.href = '/';
+                }
+            
+                function resetTimer() {
+                    clearTimeout(time);
+                    time = setTimeout(redirectToPage, inactivityLimit);  // Redirects after 30 minute of inactivity
+                }
+            };
+            
+            inactivityTime();
+
+        });
+    </script>
+</body>
+</html>

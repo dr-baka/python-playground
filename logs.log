@@ -1,0 +1,23 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 3 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin.
+Run 'python manage.py migrate' to apply them.
+August 30, 2024 - 21:43:17
+Django version 5.1, using settings 'master.settings'
+Starting development server at http://0.0.0.0:1997/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 3 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin.
+Run 'python manage.py migrate' to apply them.
+August 30, 2024 - 21:44:11
+Django version 5.1, using settings 'master.settings'
+Starting development server at http://0.0.0.0:1997/
+Quit the server with CONTROL-C.
+
+2024-08-31 05:00:01.512388 | An error occurred: [Errno 2] No such file or directory: '/home/dayat/venvs/last_activity.json'

@@ -1,0 +1,2284 @@
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/usr/bin/bash: /home/dayat/LAB/playground/entrypoint.sh: No such file or directory
+/home/dayat/LAB/PYTHON/playground/entrypoint.sh: line 4: touch: command not found
+/home/dayat/LAB/PYTHON/playground/entrypoint.sh: line 8: crontab: command not found
+Watching for file changes with StatReloader
+[30/Aug/2024 20:33:45] "GET / HTTP/1.1" 200 6225
+[30/Aug/2024 20:33:46] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:33:46] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:34:02] "GET /dayat/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:34:03] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:34:03] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:34:23] "POST /dayat/ HTTP/1.1" 200 5725
+[30/Aug/2024 20:34:23] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:34:23] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:34:34] "POST /dayat/ HTTP/1.1" 200 5725
+[30/Aug/2024 20:34:34] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:34:34] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:34:34] "POST /dayat/ HTTP/1.1" 200 5725
+[30/Aug/2024 20:34:35] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:34:35] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:34:39] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:34:39] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:34:39] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:35:48] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:35:48] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:35:48] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:36:47] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:36:47] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:36:47] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:37:26] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:37:26] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:37:26] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:38:54] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:38:55] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:38:55] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:38:55] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:38:56] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:38:56] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:38:56] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:38:56] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:38:56] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:38:57] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:38:57] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:38:57] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:38:58] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:38:58] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:38:58] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:38:59] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:38:59] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:38:59] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:38:59] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:00] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:00] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:00] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:00] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:00] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:00] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:01] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:01] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:01] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:01] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:01] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:02] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:02] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:02] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:03] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:03] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:03] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:03] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:04] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:04] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:04] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:04] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:04] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:06] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:06] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:06] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:07] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:07] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:07] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:07] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:08] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:08] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:08] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:09] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:09] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:13] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:14] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:14] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:14] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:14] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:14] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:15] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:15] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:15] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:16] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:16] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:16] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:23] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:23] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:23] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:23] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:24] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:24] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:24] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:24] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:24] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:25] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:25] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:25] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:25] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:25] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:26] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:26] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:26] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:26] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:27] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:27] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:27] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:39:28] "POST /dayat/ HTTP/1.1" 200 5727
+[30/Aug/2024 20:39:28] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:39:28] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:45:34] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:45:34] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:45:34] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:45:35] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:45:40] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:45:40] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:45:52] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:45:52] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:46:01] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:46:01] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:47:11] "GET /dad/ HTTP/1.1" 200 5692
+[30/Aug/2024 20:47:12] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:47:12] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:47:18] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:47:18] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:47:18] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:47:25] "GET /homw HTTP/1.1" 301 0
+[30/Aug/2024 20:47:25] "GET /homw/ HTTP/1.1" 200 5694
+[30/Aug/2024 20:47:25] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:47:30] "GET /1 HTTP/1.1" 301 0
+[30/Aug/2024 20:47:31] "GET /1/ HTTP/1.1" 200 5688
+[30/Aug/2024 20:47:31] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:47:36] "GET /dadadada HTTP/1.1" 301 0
+[30/Aug/2024 20:47:36] "GET /dadadada/ HTTP/1.1" 200 5702
+[30/Aug/2024 20:47:37] "GET /favicon.ico/ HTTP/1.1" 200 5708
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 126, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 87, in raise_last_exception
+    raise _exception[1]
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/__init__.py", line 394, in execute
+    autoreload.check_errors(django.setup)()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/apps/registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/apps/config.py", line 193, in create
+    import_module(entry)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'playgrounddjango'
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 20:52:13] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:52:13] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:52:13] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:52:14] "GET /favicon.ico/ HTTP/1.1" 200 5708
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 20:52:31] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:52:31] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:52:32] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:52:32] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:52:48] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:52:48] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:52:49] "GET /favicon.ico/ HTTP/1.1" 200 5708
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 20, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 4
+    from django.
+                ^
+SyntaxError: invalid syntax
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 20, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 4
+    from django.views.de
+                        ^
+SyntaxError: invalid syntax
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 20, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 4
+    from django.views.decorators.
+                                 ^
+SyntaxError: invalid syntax
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 143, in inner_run
+    handler = self.get_handler(*args, **options)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/staticfiles/management/commands/runserver.py", line 31, in get_handler
+    handler = super().get_handler(*args, **options)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 79, in get_handler
+    return get_internal_wsgi_application()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/servers/basehttp.py", line 48, in get_internal_wsgi_application
+    return import_string(app_path)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+    return WSGIHandler()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/wsgi.py", line 118, in __init__
+    self.load_middleware()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/base.py", line 40, in load_middleware
+    middleware = import_string(middleware_path)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/middleware.py", line 7, in <module>
+    from django.contrib.auth.backends import RemoteUserBackend
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 2, in <module>
+    from django.contrib.auth.models import Permission
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/models.py", line 7, in <module>
+    from django.contrib.contenttypes.models import ContentType
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/contenttypes/models.py", line 134, in <module>
+    class ContentType(models.Model):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/db/models/base.py", line 134, in __new__
+    raise RuntimeError(
+RuntimeError: Model class django.contrib.contenttypes.models.ContentType doesn't declare an explicit app_label and isn't in an application in INSTALLED_APPS.
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /admin
+[30/Aug/2024 20:56:39] "GET /admin HTTP/1.1" 404 2521
+Not Found: /admin
+[30/Aug/2024 20:56:46] "GET /admin HTTP/1.1" 404 2521
+Not Found: /dadadada
+[30/Aug/2024 20:57:12] "GET /dadadada HTTP/1.1" 404 2530
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /dadadada
+[30/Aug/2024 20:57:49] "GET /dadadada HTTP/1.1" 404 2530
+Not Found: /admin
+[30/Aug/2024 20:57:51] "GET /admin HTTP/1.1" 404 2521
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 20:58:02] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:58:02] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:58:06] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:58:06] "GET /admin/ HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 143, in inner_run
+    handler = self.get_handler(*args, **options)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/staticfiles/management/commands/runserver.py", line 31, in get_handler
+    handler = super().get_handler(*args, **options)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 79, in get_handler
+    return get_internal_wsgi_application()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/servers/basehttp.py", line 48, in get_internal_wsgi_application
+    return import_string(app_path)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+    return WSGIHandler()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/wsgi.py", line 118, in __init__
+    self.load_middleware()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/base.py", line 40, in load_middleware
+    middleware = import_string(middleware_path)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/middleware.py", line 7, in <module>
+    from django.contrib.auth.backends import RemoteUserBackend
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 2, in <module>
+    from django.contrib.auth.models import Permission
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/models.py", line 39, in <module>
+    class Permission(models.Model):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/db/models/base.py", line 134, in __new__
+    raise RuntimeError(
+RuntimeError: Model class django.contrib.auth.models.Permission doesn't declare an explicit app_label and isn't in an application in INSTALLED_APPS.
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/middleware.py", line 30, in process_request
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: The Django authentication middleware requires session middleware to be installed. Edit your MIDDLEWARE setting to insert 'django.contrib.sessions.middleware.SessionMiddleware' before 'django.contrib.auth.middleware.AuthenticationMiddleware'.
+[30/Aug/2024 20:58:37] "GET /admin HTTP/1.1" 500 59845
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 20:58:51] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:58:52] "GET /admin/ HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/fallback.py", line 16, in __init__
+    self.storages = [
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/fallback.py", line 17, in <listcomp>
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/session.py", line 17, in __init__
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: The session-based temporary message storage requires session middleware to be installed, and come before the message middleware in the MIDDLEWARE list.
+[30/Aug/2024 20:59:10] "GET / HTTP/1.1" 500 71511
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/fallback.py", line 16, in __init__
+    self.storages = [
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/fallback.py", line 17, in <listcomp>
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/messages/storage/session.py", line 17, in __init__
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: The session-based temporary message storage requires session middleware to be installed, and come before the message middleware in the MIDDLEWARE list.
+[30/Aug/2024 20:59:11] "GET /favicon.ico HTTP/1.1" 500 71513
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 20:59:37] "GET / HTTP/1.1" 200 6225
+[30/Aug/2024 20:59:37] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 20:59:37] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 20:59:44] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:59:44] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 20:59:49] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 20:59:49] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 21:00:01] "GET /admin?dada HTTP/1.1" 301 0
+[30/Aug/2024 21:00:01] "GET /admin/?dada HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+[30/Aug/2024 21:00:29] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 21:00:29] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 21:00:35] "GET /admin/ HTTP/1.1" 200 5696
+[30/Aug/2024 21:00:36] "GET /admin/?dada HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+[30/Aug/2024 21:02:18] "GET /admin/?dada HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 563, in check
+    raise SystemCheckError(msg)
+django.core.management.base.SystemCheckError: SystemCheckError: System check identified some issues:
+
+ERRORS:
+?: (admin.E409) 'django.contrib.messages.middleware.MessageMiddleware' must be in MIDDLEWARE in order to use the admin application.
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 2 issues (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 563, in check
+    raise SystemCheckError(msg)
+django.core.management.base.SystemCheckError: SystemCheckError: System check identified some issues:
+
+ERRORS:
+?: (admin.E409) 'django.contrib.messages.middleware.MessageMiddleware' must be in MIDDLEWARE in order to use the admin application.
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 2 issues (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+[30/Aug/2024 21:05:12] "GET /admin?dada HTTP/1.1" 301 0
+[30/Aug/2024 21:05:12] "GET /admin/?dada HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+Internal Server Error: /admin
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "/home/dayat/LAB/PYTHON/playground/master/middleware.py", line 7, in process_request
+    if not request.user.is_authenticated:
+AttributeError: 'WSGIRequest' object has no attribute 'user'
+[30/Aug/2024 21:06:05] "GET /admin?dadadad HTTP/1.1" 500 58953
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+Internal Server Error: /admin
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "/home/dayat/LAB/PYTHON/playground/master/middleware.py", line 7, in process_request
+    if not request.user.is_authenticated:
+AttributeError: 'WSGIRequest' object has no attribute 'user'
+[30/Aug/2024 21:06:38] "GET /admin?dadadad HTTP/1.1" 500 58947
+Internal Server Error: /admin
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "/home/dayat/LAB/PYTHON/playground/master/middleware.py", line 7, in process_request
+    if not request.user.is_authenticated:
+AttributeError: 'WSGIRequest' object has no attribute 'user'
+[30/Aug/2024 21:06:40] "GET /admin?dadadad HTTP/1.1" 500 58947
+Internal Server Error: /admin
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "/home/dayat/LAB/PYTHON/playground/master/middleware.py", line 7, in process_request
+    if not request.user.is_authenticated:
+AttributeError: 'WSGIRequest' object has no attribute 'user'
+[30/Aug/2024 21:06:44] "GET /admin?dadadad HTTP/1.1" 500 58947
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+[30/Aug/2024 21:06:56] "GET /admin?dadadad HTTP/1.1" 301 0
+[30/Aug/2024 21:06:56] "GET /admin/?dadadad HTTP/1.1" 200 5696
+Not Found: /
+[30/Aug/2024 21:07:12] "GET / HTTP/1.1" 404 2483
+[30/Aug/2024 21:07:12] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 21:07:12] "GET /favicon.ico/ HTTP/1.1" 200 5708
+Not Found: /
+[30/Aug/2024 21:07:16] "GET / HTTP/1.1" 404 2483
+[30/Aug/2024 21:07:16] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 21:07:16] "GET /favicon.ico/ HTTP/1.1" 200 5708
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+Not Found: /
+[30/Aug/2024 21:07:33] "GET / HTTP/1.1" 404 2483
+[30/Aug/2024 21:07:33] "GET /favicon.ico HTTP/1.1" 301 0
+[30/Aug/2024 21:07:33] "GET /favicon.ico/ HTTP/1.1" 200 5708
+[30/Aug/2024 21:07:40] "GET /admin?dadadad HTTP/1.1" 301 0
+[30/Aug/2024 21:07:40] "GET /admin/?dadadad HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+[30/Aug/2024 21:08:12] "GET /admin?dadadad HTTP/1.1" 301 0
+[30/Aug/2024 21:08:12] "GET /admin/?dadadad HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 143, in inner_run
+    handler = self.get_handler(*args, **options)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/staticfiles/management/commands/runserver.py", line 31, in get_handler
+    handler = super().get_handler(*args, **options)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 79, in get_handler
+    return get_internal_wsgi_application()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/servers/basehttp.py", line 48, in get_internal_wsgi_application
+    return import_string(app_path)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+    return WSGIHandler()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/wsgi.py", line 118, in __init__
+    self.load_middleware()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/base.py", line 40, in load_middleware
+    middleware = import_string(middleware_path)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/middleware.py", line 7, in <module>
+    from django.contrib.auth.backends import RemoteUserBackend
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 2, in <module>
+    from django.contrib.auth.models import Permission
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/contrib/auth/models.py", line 39, in <module>
+    class Permission(models.Model):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/db/models/base.py", line 134, in __new__
+    raise RuntimeError(
+RuntimeError: Model class django.contrib.auth.models.Permission doesn't declare an explicit app_label and isn't in an application in INSTALLED_APPS.
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+[30/Aug/2024 21:08:54] "GET /admin?dadadad HTTP/1.1" 301 0
+[30/Aug/2024 21:08:54] "GET /admin/?dadadad HTTP/1.1" 200 5696
+/home/dayat/LAB/PYTHON/playground/master/settings.py changed, reloading.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W002) Your URL pattern '/' has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 1 issue (0 silenced).
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:09:48] "GET /admin?dadadad HTTP/1.1" 301 0
+[30/Aug/2024 21:09:48] "GET /admin/?dadadad HTTP/1.1" 200 5696
+[30/Aug/2024 21:09:53] "GET /admin HTTP/1.1" 301 0
+[30/Aug/2024 21:09:53] "GET /admin/ HTTP/1.1" 200 5696
+Not Found: /
+[30/Aug/2024 21:10:57] "GET / HTTP/1.1" 404 2493
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 22, in <module>
+    path('admin/', admin.site.urls),
+NameError: name 'admin' is not defined
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:11:11] "GET / HTTP/1.1" 200 6225
+[30/Aug/2024 21:11:29] "GET /dayat/ HTTP/1.1" 200 5696
+[30/Aug/2024 21:11:46] "POST /dayat/ HTTP/1.1" 200 5931
+
+[notice] A new release of pip is available: 23.0.1 -> 24.2
+[notice] To update, run: python -m pip install --upgrade pip
+[30/Aug/2024 21:11:53] "POST /install-package/ HTTP/1.1" 200 64
+[30/Aug/2024 21:11:58] "POST /dayat/ HTTP/1.1" 200 5711
+[30/Aug/2024 21:12:06] "POST /dayat/ HTTP/1.1" 200 5711
+[30/Aug/2024 21:12:10] "POST /dayat/ HTTP/1.1" 200 5711
+[30/Aug/2024 21:12:11] "POST /dayat/ HTTP/1.1" 200 5711
+
+Usage:   
+  /home/dayat/LAB/PYTHON/playground/venvs/dayat/bin/python -m pip install [options] <requirement specifier> [package-index-options] ...
+  /home/dayat/LAB/PYTHON/playground/venvs/dayat/bin/python -m pip install [options] -r <requirements file> [package-index-options] ...
+  /home/dayat/LAB/PYTHON/playground/venvs/dayat/bin/python -m pip install [options] [-e] <vcs project url> ...
+  /home/dayat/LAB/PYTHON/playground/venvs/dayat/bin/python -m pip install [options] [-e] <local project path> ...
+  /home/dayat/LAB/PYTHON/playground/venvs/dayat/bin/python -m pip install [options] <archive url/path> ...
+
+no such option: --upgrade pip
+[30/Aug/2024 21:12:50] "POST /install-package/ HTTP/1.1" 200 70
+
+[notice] A new release of pip is available: 23.0.1 -> 24.2
+[notice] To update, run: python -m pip install --upgrade pip
+[30/Aug/2024 21:13:12] "POST /install-package/ HTTP/1.1" 200 60
+[30/Aug/2024 21:13:31] "GET /dayat/?venv_name=dayat&pip_name=pip%3D24.2 HTTP/1.1" 200 5696
+ERROR: Invalid requirement: 'pip=24.2'
+Hint: = is not a valid operator. Did you mean == ?
+
+[notice] A new release of pip is available: 23.0.1 -> 24.2
+[notice] To update, run: python -m pip install --upgrade pip
+[30/Aug/2024 21:13:38] "POST /install-package/ HTTP/1.1" 200 65
+[30/Aug/2024 21:13:56] "POST /dayat/?venv_name=dayat&pip_name=pip%3D24.2 HTTP/1.1" 200 5902
+[30/Aug/2024 21:14:05] "GET / HTTP/1.1" 200 6225
+[30/Aug/2024 21:15:24] "GET / HTTP/1.1" 200 6225
+[30/Aug/2024 21:17:58] "GET /da/ HTTP/1.1" 200 5690
+[30/Aug/2024 21:18:06] "POST /da/ HTTP/1.1" 200 5893
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 75
+    python_exec = os.path.join(venv_dir, 'bin', 'python')
+    ^
+IndentationError: expected an indented block after 'else' statement on line 69
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 70
+    subprocess.
+               ^
+SyntaxError: invalid syntax
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:21:08] "GET /da/ HTTP/1.1" 200 5690
+Internal Server Error: /da/
+Traceback (most recent call last):
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 70, in index
+    subprocess.run('echo', '{} >', last_activity_file)
+  File "/usr/lib/python3.10/subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/python3.10/subprocess.py", line 780, in __init__
+    raise TypeError("bufsize must be an integer")
+TypeError: bufsize must be an integer
+[30/Aug/2024 21:21:15] "POST /da/ HTTP/1.1" 500 78508
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 70
+    with open
+             ^
+SyntaxError: expected ':'
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 70
+    with open()
+               ^
+SyntaxError: expected ':'
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 70
+    with open(last_activity_file, 'w')
+                                      ^
+SyntaxError: expected ':'
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 72
+    subprocess.run('echo', '{} >', last_activity_file)
+    ^
+IndentationError: expected an indented block after 'with' statement on line 70
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:22:23] "GET /da/ HTTP/1.1" 200 5690
+[30/Aug/2024 21:22:30] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:22:40] "POST /da/ HTTP/1.1" 200 5893
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 75
+    python_exec = os.path.join(venv_dir, 'bin', 'python')
+    ^
+IndentationError: expected an indented block after 'else' statement on line 69
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 55
+    with open(last_activity_file, 'r') as f:
+    ^
+IndentationError: expected an indented block after 'if' statement on line 54
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 56
+    with open(last_activity_file, 'r') as f:
+    ^
+IndentationError: expected an indented block after 'if' statement on line 54
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 56
+    with open(last_activity_file, 'r') as f:
+    ^
+IndentationError: expected an indented block after 'if' statement on line 54
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:23:33] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:40] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:40] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:40] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:40] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:41] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:41] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:42] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:43] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:43] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:44] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:44] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:44] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:45] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:45] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:46] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:46] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:46] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:47] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:47] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:48] "POST /da/ HTTP/1.1" 200 5893
+[30/Aug/2024 21:23:52] "GET / HTTP/1.1" 200 6225
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 123
+    with open(last_activity_file, 'r') as f:
+    ^
+IndentationError: expected an indented block after 'if' statement on line 122
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 123
+    with open(last_activity_file, 'r') as f:
+    ^
+IndentationError: expected an indented block after 'if' statement on line 122
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:28:33] "GET /dayat/ HTTP/1.1" 200 6644
+[30/Aug/2024 21:28:44] "GET / HTTP/1.1" 200 6225
+[30/Aug/2024 21:31:13] "GET /dayat/ HTTP/1.1" 200 6648
+[30/Aug/2024 21:31:31] "POST /dayat/ HTTP/1.1" 200 6673
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 26, in <module>
+    path('<str:session_name>/delete/', delete),
+NameError: name 'delete' is not defined
+/home/dayat/LAB/PYTHON/playground/master/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+ImportError: cannot import name 'delete' from 'playground.views' (/home/dayat/LAB/PYTHON/playground/playground/views.py)
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+ImportError: cannot import name 'delete' from 'playground.views' (/home/dayat/LAB/PYTHON/playground/playground/views.py)
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 164
+    if 
+       ^
+SyntaxError: invalid syntax
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 164
+    if request.me
+                 ^
+SyntaxError: expected ':'
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 164
+    if request.met
+                  ^
+SyntaxError: expected ':'
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 166
+    'is_error
+    ^
+SyntaxError: unterminated string literal (detected at line 166)
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 167
+    ''
+     ^
+SyntaxError: ':' expected after dictionary key
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 168
+    })
+    ^
+SyntaxError: f-string: empty expression not allowed
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 168
+    }, status=)
+              ^
+SyntaxError: invalid syntax
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 184
+    f.close()
+IndentationError: unexpected indent
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 196
+    del activity[venv_dir] = datetime.datetime.utcnow().isoformat()
+                           ^
+SyntaxError: invalid syntax
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 196
+    activity.povenv_dir]
+                       ^
+SyntaxError: unmatched ']'
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 531, in check
+    for pattern in self.url_patterns:
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 718, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/dayat/LAB/PYTHON/playground/.env/lib/python3.10/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/dayat/LAB/PYTHON/playground/master/urls.py", line 19, in <module>
+    from playground.views import index, install, home, delete
+  File "/home/dayat/LAB/PYTHON/playground/playground/views.py", line 196
+    activity.pop(venv_dir]
+                         ^
+SyntaxError: closing parenthesis ']' does not match opening parenthesis '('
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:44:15] "GET /dayat/ HTTP/1.1" 200 6648
+[30/Aug/2024 21:44:24] "POST /dayat/ HTTP/1.1" 200 6854
+[30/Aug/2024 21:44:34] "GET / HTTP/1.1" 200 6225
+/home/dayat/LAB/PYTHON/playground/playground/views.py changed, reloading.
+Watching for file changes with StatReloader
+[30/Aug/2024 21:46:27] "GET /dayat/ HTTP/1.1" 200 7469
+[30/Aug/2024 21:46:29] "POST /dayat/ HTTP/1.1" 200 7675
+[30/Aug/2024 21:46:40] "GET / HTTP/1.1" 200 6225
+[30/Aug/2024 21:46:40] "DELETE /dayat/delete/ HTTP/1.1" 200 40
