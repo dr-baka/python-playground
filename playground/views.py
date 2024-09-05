@@ -97,6 +97,11 @@ def index(request, *args, **kwargs):
             results = f"Error: {e.stderr}"
         
     
+    if request.GET.get('format') == 'json':
+        return JsonResponse({
+            'result': results
+        })
+    
     return render(request, 'index.html', context={
         'session_name': session_name,
         'code': code, 
@@ -148,16 +153,16 @@ def install(request, *args, **kwargs):
     try:
         # Run the code in the virtual environment
         pip_name = body.get('pip_name', '')
-        result = subprocess.run([python_exec, '-m', 'pip', 'install', pip_name])
-        return JsonResponse({
-            'is_error': False,
-            'message': f'{pip_name} successfully installed'
-        })
+        pip_command = [python_exec, '-m'] + pip_name.split(' ')
+        result = subprocess.run(pip_command, capture_output=True, text=True, check=True)
+        results = result.stdout
+        print(results)
     except subprocess.CalledProcessError as e:
-        return JsonResponse({
-            'is_error': True,
-            'message': f'{pip_name} failed installed'
-        })
+        results = f"Error: {e.stderr}"
+    
+    return JsonResponse({
+        'result': results
+    })
 
 @csrf_exempt
 def delete(request, *args, **kwargs):
@@ -205,4 +210,5 @@ def delete(request, *args, **kwargs):
         'is_error': True,
         'message': 'success'
     })
-    
+
+

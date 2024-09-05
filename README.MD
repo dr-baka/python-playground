@@ -25,6 +25,13 @@ This Django project provides a web-based Python playground where users can run P
 3. **Run Python Scripts**: Execute your Python code in the isolated environment.
 4. **Session Expiry**: Keep track of your session time. The session will expire after 60 minutes of inactivity or 30 minutes if the browser is closed.
 
+## Credits
+
+This project uses the following open-source libraries:
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/): A powerful code editor for providing syntax highlighting and code completion.
+- [jQuery](https://jquery.com/): A fast, small, and feature-rich JavaScript library.
+- [Font Awesome](https://fontawesome.com/): Provides a vast collection of icons for use in web applications.
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
