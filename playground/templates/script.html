@@ -1,0 +1,467 @@
+<!-- templates/script.html -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.34.1/min/vs/loader.min.js"></script>
+<script>
+
+    // Elements and Variables
+    const divider = $('.divider');
+    const topRow = $('.top-row');
+    const bottomRow = $('.bottom-row');
+    const runCodeButton = $('#runCodeButton');
+    const dragThreshold = 5;
+
+    let isDragging = false;
+    let startX, startY;
+
+    $('.fa-spinner').hide();
+
+    // Divider drag logic
+    divider.on('mousedown', function () {
+        isDragging = true;
+        $(document).on('mousemove', onMouseMove);
+        $(document).on('mouseup', onMouseUp);
+    });
+
+    function onMouseMove(e) {
+        if (!isDragging) return;
+
+        const containerRect = $('.container')[0].getBoundingClientRect();
+        const newTopHeight = e.clientY - containerRect.top;
+
+        if (newTopHeight > 0 && newTopHeight < containerRect.height - divider.height()) {
+            topRow.css('height', `${newTopHeight}px`);
+            bottomRow.css('height', `${containerRect.height - newTopHeight - divider.height()}px`);
+        }
+    }
+
+    function onMouseUp() {
+        isDragging = false;
+        $(document).off('mousemove', onMouseMove);
+        $(document).off('mouseup', onMouseUp);
+    }
+
+    // Initial layout setup
+    const containerHeight = $('.container').outerHeight();
+    topRow.css('height', `${containerHeight * 0.80}px`);
+    bottomRow.css('height', `${containerHeight * 0.20}px`);
+
+    // Run code button drag and execution logic
+    runCodeButton.on('mousedown', function (e) {
+        isDragging = true;
+        startX = e.clientX;
+        startY = e.clientY;
+        $(this).addClass('dragging');
+
+        $(document).on('mousemove', onDragMove);
+        $(document).on('mouseup', onDragEnd);
+    });
+
+    function onDragMove(e) {
+        if (!isDragging) return;
+
+        const moveX = e.clientX - startX;
+        const moveY = e.clientY - startY;
+
+        if (Math.abs(moveX) > dragThreshold || Math.abs(moveY) > dragThreshold) {
+            runCodeButton.css({
+                left: `${e.clientX - runCodeButton.outerWidth() / 2}px`,
+                top: `${e.clientY - runCodeButton.outerHeight() / 2}px`
+            });
+        }
+    }
+
+    function onDragEnd(e) {
+        isDragging = false;
+        runCodeButton.removeClass('dragging');
+        $(document).off('mousemove', onDragMove);
+        $(document).off('mouseup', onDragEnd);
+
+        const moveX = e.clientX - startX;
+        const moveY = e.clientY - startY;
+
+        // Execute code if drag threshold is not exceeded
+        if (Math.abs(moveX) <= dragThreshold && Math.abs(moveY) <= dragThreshold) {
+            execCode();
+        }
+    }
+
+    // Monaco Editor Setup
+    let editor;
+    require.config({ paths: { 'vs': 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.34.1/min/vs' } });
+    require(['vs/editor/editor.main'], function () {
+        editor = monaco.editor.create(document.getElementById('monaco-editor'), {
+            value: `# Write some Python code!\n\nprint("Hello, World!")\n`,
+            language: 'python',
+            theme: 'vs-dark',
+            automaticLayout: true,
+        });
+
+        // Python auto-completion suggestions
+        monaco.languages.registerCompletionItemProvider('python', {
+            provideCompletionItems: () => ({
+                suggestions: [
+                {
+                    "label": "print",
+                    "kind": monaco.languages.CompletionItemKind.Function,
+                    "documentation": "Print output to the console.",
+                    "insertText": "print(${1:object})",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                },
+                {
+                    "label": "def",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Defines a function.",
+                    "insertText": "def ${1:function_name}(${2:params}):\n\t$0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                },
+                {
+                    "label": "for",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "For loop.",
+                    "insertText": "for ${1:variable} in ${2:iterable}:\n\t$0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                },
+                {
+                    "label": "if",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "If statement.",
+                    "insertText": "if ${1:condition}:\n\t$0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                },
+                {
+                    "label": "False",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: False.",
+                    "insertText": "False $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "None",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: None.",
+                    "insertText": "None $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "True",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: True.",
+                    "insertText": "True $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "and",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: and.",
+                    "insertText": "and $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "as",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: as.",
+                    "insertText": "as $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "assert",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: assert.",
+                    "insertText": "assert $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "async",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: async.",
+                    "insertText": "async $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "await",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: await.",
+                    "insertText": "await $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "break",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: break.",
+                    "insertText": "break $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "class",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: class.",
+                    "insertText": "class $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "continue",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: continue.",
+                    "insertText": "continue $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "del",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: del.",
+                    "insertText": "del $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "elif",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: elif.",
+                    "insertText": "elif $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "else",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: else.",
+                    "insertText": "else $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "except",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: except.",
+                    "insertText": "except $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "finally",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: finally.",
+                    "insertText": "finally $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "from",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: from.",
+                    "insertText": "from $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "global",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: global.",
+                    "insertText": "global $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "import",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: import.",
+                    "insertText": "import $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "in",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: in.",
+                    "insertText": "in $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "is",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: is.",
+                    "insertText": "is $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "lambda",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: lambda.",
+                    "insertText": "lambda $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "nonlocal",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: nonlocal.",
+                    "insertText": "nonlocal $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "not",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: not.",
+                    "insertText": "not $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "or",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: or.",
+                    "insertText": "or $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "pass",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: pass.",
+                    "insertText": "pass $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "raise",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: raise.",
+                    "insertText": "raise $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "return",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: return.",
+                    "insertText": "return $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "try",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: try.",
+                    "insertText": "try $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "while",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: while.",
+                    "insertText": "while $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "with",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: with.",
+                    "insertText": "with $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  },
+                  {
+                    "label": "yield",
+                    "kind": monaco.languages.CompletionItemKind.Keyword,
+                    "documentation": "Python keyword: yield.",
+                    "insertText": "yield $0",
+                    "insertTextRules": monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+                  }
+                ]
+            })
+        });
+    });
+
+    // Execute code logic
+    function execCode() {
+        $('.fa-play').hide();
+        $('.fa-spinner').show();
+
+        const code = editor.getValue();
+        const formData = new FormData();
+        formData.append('code', code);
+        formData.append('session_name', '{{session_name}}');
+
+        fetch(`/{{session_name}}/?format=json`, {
+            method: 'POST',
+            body: formData
+        })
+            .then(response => response.json())
+            .then(data => {
+                const escapedResult = escapeHTML(data.result || 'No output');
+                $('#history').append(`<pre>${escapedResult}</pre>`);
+                $('.fa-play').show();
+                $('.fa-spinner').hide();
+            })
+            .catch(error => handleError(error));
+    }
+
+    // Escape HTML to prevent injection
+    function escapeHTML(text) {
+        return text.replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#039;');
+    }
+
+    // Error handler
+    function handleError(error) {
+        console.error('Error:', error);
+        alert('An error occurred while running the code.');
+        $('.fa-play').show();
+        $('.fa-spinner').hide();
+    }
+
+    // Install pip package logic
+    function execCommand(cmd, check) {
+        const formData = new FormData();
+        formData.append('pip_name', cmd);
+        formData.append('venv_name', '{{session_name}}');
+
+        let uri = '/install-package/'
+        if (check === true) {
+            uri += '?cmd'
+        }
+
+        fetch(uri, {
+            method: 'POST',
+            body: formData
+        })
+            .then(response => response.json())
+            .then(data => {
+                const escapedResult = escapeHTML(data.result || 'No output');
+                $('#history').append(`<pre>${escapedResult}</pre>`);
+            })
+            .catch(error => handleError(error));
+    }
+
+
+    // Terminal input logic
+    $('#input').on('keydown', function (e) {
+        if (e.keyCode === 13) {
+            const inputValue = $(this).val();
+            appendToHistory(inputValue);
+
+            if (inputValue === 'clear') {
+                $('#history').html('');
+            } else {
+                const pipKeyword = 'pip ';
+                if (inputValue.includes(pipKeyword)) {
+                    const packageName = inputValue.substring(inputValue.indexOf(pipKeyword) + pipKeyword.length).trim();
+                    execCommand(packageName, false);
+                } else {
+                    execCommand(inputValue.trim(), true);
+                }
+    
+               
+            }
+            $(this).val(''); // Clear input
+        }
+    });
+
+    function appendToHistory(text) {
+        $('#history').append(`<div style="display: flex"><div class="prompt">$</div><div class="gray_text">${text}</div></div>`);
+    }
+
+    $('#history').on('click', () => {
+        $('#input').focus()
+    })
+    // Terminal copy on right-click
+    $('#history').on('contextmenu', function (event) {
+        event.preventDefault();
+        const textToCopy = $(this).text();
+
+        navigator.clipboard.writeText(textToCopy).then(() => {
+            alert(`Text copied to clipboard: ${textToCopy}`);
+        }).catch(err => {
+            console.error('Failed to copy text: ', err);
+        });
+    });
+
+</script>

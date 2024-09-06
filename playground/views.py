@@ -149,17 +149,29 @@ def install(request, *args, **kwargs):
     # Path to the Python executable in the virtual environment
     python_exec = os.path.join(venv_dir, 'bin', 'python') 
 
-    # Install any required packages if necessary
     try:
-        # Run the code in the virtual environment
+        # Prepare the pip command
         pip_name = body.get('pip_name', '')
-        pip_command = [python_exec, '-m'] + pip_name.split(' ')
+        pip_command = [python_exec, '-m', 'pip'] + pip_name.split(' ')
+
+        # Adjust the command if `cmd` parameter is provided
+        if 'cmd' in request.GET:
+            pip_command = pip_name.split(' ')
+            if len(pip_command) > 0:
+                pip_command[0] = '/usr/bin/' + pip_command[0]
+        
+        # Run the pip command
         result = subprocess.run(pip_command, capture_output=True, text=True, check=True)
         results = result.stdout
-        print(results)
+
     except subprocess.CalledProcessError as e:
-        results = f"Error: {e.stderr}"
-    
+        # Handle subprocess errors
+        results = e.stderr
+
+    except Exception as ex:
+        # Handle other exceptions
+        results = str(ex)
+
     return JsonResponse({
         'result': results
     })
